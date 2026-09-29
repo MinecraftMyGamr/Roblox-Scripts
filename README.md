@@ -1,6 +1,8 @@
 
 # Roblox Scripts (Executor)
 
+[![Reviewed on ScriptBlox](https://scriptblox.com/badge/Universal-Script-Spectator-Gui-229863)](https://scriptblox.com/script/Universal-Script-Spectator-Gui-229863)
+
 Collection of scripts for **Roblox executors** (Synapse, Fluxus, Wave, Solara, etc.).
 
 > **Important Disclaimer**  
