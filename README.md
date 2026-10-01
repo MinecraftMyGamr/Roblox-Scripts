@@ -9,6 +9,10 @@ Collection of scripts for **Roblox executors** (Synapse, Fluxus, Wave, Solara, e
 > These scripts are made **for educational and testing purposes only**.  
 > Using them in public games may violate the [Roblox Terms of Service](https://en.help.roblox.com/hc/en-us/articles/115004647846) and can result in account bans.  
 > **You are solely responsible** for how you use them.
+>
+> Most recent update image:
+> 
+> <img width="750" height="435" alt="10 sin título_20260928150001" src="https://github.com/user-attachments/assets/f84d9da3-1242-4211-816b-8862db2cbcdc" />
 
 ---
 
