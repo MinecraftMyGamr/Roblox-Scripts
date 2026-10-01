@@ -13,6 +13,9 @@ Collection of scripts for **Roblox executors** (Synapse, Fluxus, Wave, Solara, e
 > Most recent update image:
 > 
 > <img width="750" height="435" alt="10 sin título_20260928150001" src="https://github.com/user-attachments/assets/f84d9da3-1242-4211-816b-8862db2cbcdc" />
+>
+> **Note:** This image is edited for presentation purposes. **NOT THE ACTUAL DESIGN.**  
+> Only the GUI shown is part of the actual script.
 
 ---
 
