@@ -16,6 +16,8 @@ Collection of scripts for **Roblox executors** (Synapse, Fluxus, Wave, Solara, e
 >
 > **Note:** This image is edited for presentation purposes. **NOT THE ACTUAL DESIGN.**  
 > Only the GUI shown is part of the actual script.
+>
+> [Pls go to ScriptBlox and rate my script ❤️](https://scriptblox.com/script/Universal-Script-Spectator-Gui-229863)
 
 ---
 
